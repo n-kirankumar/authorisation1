@@ -1,0 +1,20 @@
+2024-06-28 00:19:55,258 - INFO - User 'admin' logged in
+2024-06-28 00:19:55,259 - INFO - Admin logged in successfully
+2024-06-28 00:19:55,259 - INFO - Mobile verification is successful
+2024-06-28 00:19:55,260 - INFO - Email verification is successful
+2024-06-28 00:19:55,260 - INFO - Gender verification is successful
+2024-06-28 00:19:55,260 - INFO - Blood group verification is successful
+2024-06-28 00:19:55,261 - INFO - DOB verification is successful
+2024-06-28 00:19:55,261 - INFO - Record created successfully
+2024-06-28 00:19:55,261 - INFO - Record created successfully
+2024-06-28 00:19:55,261 - INFO - Reading all records
+2024-06-28 00:19:55,261 - INFO - All records: [{'mobile': 919876543214, 'email': 'e@gmail.com', 'gender': 'Male', 'blood_group': 'B+', 'dob': '1992-02-02'}]
+2024-06-28 00:19:55,262 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-28 00:19:55,262 - INFO - Record updated successfully
+2024-06-28 00:19:55,262 - INFO - Record with mobile 919876543214 deleted successfully
+2024-06-28 00:19:55,262 - INFO - Record deleted successfully
+2024-06-28 00:19:55,263 - INFO - User 'user1' logged in
+2024-06-28 00:19:55,263 - INFO - Mobile verification is successful
+2024-06-28 00:19:55,263 - ERROR - Invalid email format
+2024-06-28 00:19:55,263 - ERROR - Record creation failed due to invalid data
+2024-06-28 00:19:55,263 - ERROR - Failed to create record as normal user
